@@ -1,4 +1,4 @@
-<h1 align="center"> Hey guys,<br> I'm @nubhav @nand </h1> 
+<h1 align="center"> Hey guys,<br> I'm @nubhav @nand  &#128123 </h1> 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandanubhav1516" alt="anandanubhav1516" /> </p> -->
 
 
