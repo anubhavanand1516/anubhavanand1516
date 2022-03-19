@@ -51,7 +51,7 @@ export default () => ({
 <a href="https://anubhavanand1516.github.io/anandanubhav/" target="_blank"><img align="left" alt="hrt" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://github.com/anubhavanand1516" target="_blank"><img align="left" alt="github" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 <!-- <a href=" " target="_blank"><img align="left" alt="twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> -->
-<a href=" " target="_blank"><img align="left" alt="likedin" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/anandanubhav1516/" target="_blank"><img align="left" alt="likedin" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/anandanubhav1516" target="_blank"><img align="left" alt="insta" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.facebook.com/profile.php?id=100008661397425" target="_blank"><img align="left" alt="insta" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 
