@@ -2,7 +2,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandanubhav1516" alt="anandanubhav1516" /> </p> -->
 
 
-<p align="center"> <img src="pic/havoc.png" alt="Anand" height=300/> </p>
+<p align="center"> <img src="pic/im.gif" alt="Anand" height=300/> </p>
 
 <br>
 
