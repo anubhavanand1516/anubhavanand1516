@@ -13,12 +13,12 @@ export default () => ({
     "Web-Dev", "DS/ML"
   ],
   technologies: {
-    "Programming languages": [ "C", "C++", "Python"],
-    "webdev": [ "HTML", "CSS", "Bootstrap", "Javascript","ReactJS"],
+    "Programming languages": [ "C", "C++", "Python" ],
+    "webdev": [ "HTML", "CSS", "Bootstrap", "Javascript","ReactJS" ],
     "databases": [ "MySQl", "MongoDB" ],
     "applications": ["Microsoft Office" ],
-    "mathematicsAndStatistics": [ "NumPy", "Pandas", "SciPy" ],
-    "machineLearning": [ "scikit-learn", "TensorFlow", "Keras" ],
+    "mathematicsAndStatistics": [ "NumPy", "Pandas" ],
+    "machineLearning": [ "scikit-learn", "TensorFlow" ],
     "datavisualization": [ "Matplotlib", "Seaborn" ],
     "devOpsTools": [ "Git" ],
     "cloudOps": [ "AWS" ],
