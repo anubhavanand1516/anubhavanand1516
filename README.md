@@ -42,7 +42,7 @@ export default () => ({
 ### 🌱 I’m currently learning Python,Java,Html,Css.
 ### 💬 Ask me anything about Tech
 ### 📧 Reach me: **anandanubhav1516@gmail.com**
-### 💻 Visit my website [🌐](https://anubhavanand1516.github.io/anandanubhav/)
+### 💻 Visit my website [🌐](https://anubhavanand1516.github.io/profile/docs/)
 
 <br>
 ## Connect with me:
